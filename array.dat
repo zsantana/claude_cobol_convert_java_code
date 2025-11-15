@@ -1,0 +1,5 @@
+ArrayAccountRecord{accountId=1, balanceEntries=[[Bal=5000.00, Debit=1005.00], [Bal=5000.00, Debit=1525.00], [Bal=-1025.00, Debit=-2500.00], [Bal=0, Debit=0], [Bal=0, Debit=0]], filler='    '}
+ArrayAccountRecord{accountId=2, balanceEntries=[[Bal=7500.50, Debit=1005.00], [Bal=7500.50, Debit=1525.00], [Bal=-1025.00, Debit=-2500.00], [Bal=0, Debit=0], [Bal=0, Debit=0]], filler='    '}
+ArrayAccountRecord{accountId=3, balanceEntries=[[Bal=-250.00, Debit=1005.00], [Bal=-250.00, Debit=1525.00], [Bal=-1025.00, Debit=-2500.00], [Bal=0, Debit=0], [Bal=0, Debit=0]], filler='    '}
+ArrayAccountRecord{accountId=4, balanceEntries=[[Bal=12000.75, Debit=1005.00], [Bal=12000.75, Debit=1525.00], [Bal=-1025.00, Debit=-2500.00], [Bal=0, Debit=0], [Bal=0, Debit=0]], filler='    '}
+ArrayAccountRecord{accountId=5, balanceEntries=[[Bal=3500.00, Debit=1005.00], [Bal=3500.00, Debit=1525.00], [Bal=-1025.00, Debit=-2500.00], [Bal=0, Debit=0], [Bal=0, Debit=0]], filler='    '}
